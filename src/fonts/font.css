@@ -1,0 +1,19 @@
+@font-face {
+  font-family: 'Maxi';
+  src: url('../fonts/maxi/Maxi.ttf') format('truetype');
+  src: url('../fonts/maxi/Maxi.woff') format('truetype');
+  src: url('../fonts/maxi/Maxi.woff2') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+
+
+@font-face {
+  font-family: 'Whyte';
+  src: url('../fonts/Whyte/Whyte.ttf') format('truetype');
+  src: url('../fonts/Whyte/Whyte.woff') format('truetype');
+  src: url('../fonts/Whyte/Whyte.woff2') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}
